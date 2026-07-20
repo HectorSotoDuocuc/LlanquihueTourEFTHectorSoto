@@ -16,8 +16,9 @@ Este es el proyecto Evaluacion Final en cual se ayuda a la empresa a digitalizar
 ├── Personas.txt #Tipo de texto donde estan las personas agregadas
 📁 src/
 ├── app/           #Clase Principal Con El Metodo Main
-├── model/        #Carpata en la que se encuentran todas las clases que tienen objetos indespensables para el proyecto ademas de un una clase interfaz
+├── model/        #Carpata en la que se encuentran todas las clases que tienen objetos indespensables
 ├── data/         #Clase para gestionar datos y leer archivos
+├──util/          #carpeta que gestiona la validaciones en este caso rut
 
 ````
 
@@ -27,7 +28,7 @@ Este es el proyecto Evaluacion Final en cual se ayuda a la empresa a digitalizar
 1. Clonar el repositorio desde Github.
 
 ```bash
-git clone https://github.com/HectorSotoDuocuc/LlanquihueTour_HectorSoto.git
+git clone https://github.com/HectorSotoDuocuc/LlanquihueTourEFTHectorSoto.git
 ```
 
 2. abre el proyecto en IntelliJ IDEA.
